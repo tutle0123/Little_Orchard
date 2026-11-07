@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#d9f0d3" />
+    <meta name="description" content="사과·배·감을 키우고 파는 작은 과수원과 청과점" />
+    <title>작은 과수원과 청과점 — 기술 데모</title>
+    <script type="module" crossorigin src="/Little_Orchard/assets/index-BbksfdRF.js"></script>
+    <link rel="stylesheet" crossorigin href="/Little_Orchard/assets/index-EfR5Vvq9.css">
+  </head>
+  <body>
+    <main class="app">
+      <header class="topbar">
+        <div><h1>작은 과수원과 청과점</h1><p class="subtitle">처음 개발을 위한 기술 데모 · 그래픽은 임시</p></div>
+        <button id="reset" type="button" title="저장 데이터 초기화">처음부터</button>
+      </header>
+      <section class="game-shell" aria-label="게임 화면"><div id="game"></div></section>
+      <section class="hud" aria-label="게임 정보">
+        <div><strong id="location">과수원</strong><span id="coins">0 코인</span></div>
+        <div id="inventory">인벤토리: 사과 0 / 배 0 / 감 0</div>
+        <p id="message" role="status" aria-live="polite">과수원에서 과일을 수확해 보세요.</p>
+      </section>
+      <section class="touch-controls" aria-label="모바일 조작">
+        <div class="dpad" aria-label="방향키">
+          <button data-move="up" class="up" aria-label="위로">▲</button>
+          <button data-move="left" class="left" aria-label="왼쪽">◀</button>
+          <button data-move="down" class="down" aria-label="아래로">▼</button>
+          <button data-move="right" class="right" aria-label="오른쪽">▶</button>
+        </div>
+        <button id="action" class="action" aria-label="상호작용">수확 / 진열 / 이동</button>
+      </section>
+      <p class="help">PC: WASD / 방향키 이동, E 상호작용 · 모바일: 아래 버튼 이용</p>
+    </main>
+  </body>
+</html>
