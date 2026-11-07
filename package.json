@@ -1,0 +1,23 @@
+{
+  "name": "little-orchard",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "description": "A tiny orchard and greengrocer pixel-art browser game starter",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "test": "node --test tests/*.test.js",
+    "check": "npm run test && npm run build"
+  },
+  "dependencies": {
+    "phaser": "3.90.0"
+  },
+  "devDependencies": {
+    "vite": "8.0.0"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}
