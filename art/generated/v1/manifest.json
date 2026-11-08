@@ -1,0 +1,914 @@
+{
+  "style_reference": "/workspace/generated_images/exec-ee602cc4-516b-4d29-ae03-9a6a404806b6.png",
+  "assets": [
+    {
+      "id": "apple-tree-ripe",
+      "path": "apple-tree-ripe.png",
+      "generation_original": "/workspace/generated_images/exec-957ea22f-5e80-4d3e-ae54-6d3e6fdf93db.png",
+      "size": [
+        1199,
+        1312
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        0,
+        21,
+        1185,
+        1312
+      ],
+      "sha256": "8afa87c5325279dc3f6fdf025faa4768ea96333e6e6931388261c379830b99dd",
+      "status": "visual_candidate_needs_alignment_and_game_test",
+      "style": "original cozy RPG illustration; not a native pixel-grid sprite",
+      "game_integration": "not_applied",
+      "alpha_histogram_summary": {
+        "fully_transparent": 897240,
+        "fully_opaque": 394,
+        "partial": 675454
+      },
+      "visible_bounds_alpha_224": [
+        83,
+        116,
+        1123,
+        1114
+      ],
+      "qa_notes": [
+        "PNG decode/hash/alpha passed.",
+        "Soft antialiased edge pixels present; inspect on game terrain.",
+        "Native source sizes differ across species; game export and anchor mapping not completed."
+      ]
+    },
+    {
+      "id": "apple-tree-empty",
+      "path": "apple-tree-empty.png",
+      "generation_original": "/workspace/generated_images/exec-1a8ac83f-c60e-4819-807e-d64828d01ed3.png",
+      "size": [
+        1199,
+        1312
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        0,
+        29,
+        1185,
+        1312
+      ],
+      "sha256": "d04fad580d1cd25ded229f923342e2fb2821da3f4e7636f91476ff3b00488539",
+      "status": "visual_candidate_needs_alignment_and_game_test",
+      "style": "original cozy RPG illustration; not a native pixel-grid sprite",
+      "game_integration": "not_applied",
+      "alpha_histogram_summary": {
+        "fully_transparent": 903211,
+        "fully_opaque": 122,
+        "partial": 669755
+      },
+      "visible_bounds_alpha_224": [
+        85,
+        117,
+        1124,
+        1119
+      ],
+      "qa_notes": [
+        "PNG decode/hash/alpha passed.",
+        "Soft antialiased edge pixels present; inspect on game terrain.",
+        "Native source sizes differ across species; game export and anchor mapping not completed."
+      ]
+    },
+    {
+      "id": "apple-icon",
+      "path": "apple-icon.png",
+      "generation_original": "/workspace/generated_images/exec-14937da3-563c-4271-b892-ea640f949bd4.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        39,
+        21,
+        1240,
+        1228
+      ],
+      "sha256": "d2d2bd84d7afec31b3fb4f3d2ab55f4c39226dc779c9a1364006414082d01b21",
+      "status": "visual_candidate_needs_alignment_and_game_test",
+      "style": "original cozy RPG illustration; not a native pixel-grid sprite",
+      "game_integration": "not_applied",
+      "alpha_histogram_summary": {
+        "fully_transparent": 1158874,
+        "fully_opaque": 231,
+        "partial": 413411
+      },
+      "visible_bounds_alpha_224": [
+        264,
+        197,
+        959,
+        1002
+      ],
+      "qa_notes": [
+        "PNG decode/hash/alpha passed.",
+        "Soft antialiased edge pixels present; inspect on game terrain.",
+        "Native source sizes differ across species; game export and anchor mapping not completed."
+      ]
+    },
+    {
+      "id": "pear-tree-ripe",
+      "path": "pear-tree-ripe.png",
+      "generation_original": "/workspace/generated_images/exec-2e7c5df8-09f1-40b3-a725-8b724b716f96.png",
+      "size": [
+        1199,
+        1312
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        0,
+        17,
+        1189,
+        1312
+      ],
+      "sha256": "22767f7be7168d1b0cbd0f6300063e65b84a332a6ec334b840255ac0e2824c42",
+      "status": "visual_candidate_needs_alignment_and_game_test",
+      "style": "original cozy RPG illustration; not a native pixel-grid sprite",
+      "game_integration": "not_applied",
+      "alpha_histogram_summary": {
+        "fully_transparent": 959971,
+        "fully_opaque": 751,
+        "partial": 612366
+      },
+      "visible_bounds_alpha_224": [
+        99,
+        104,
+        1117,
+        1107
+      ],
+      "qa_notes": [
+        "PNG decode/hash/alpha passed.",
+        "Soft antialiased edge pixels present; inspect on game terrain.",
+        "Native source sizes differ across species; game export and anchor mapping not completed."
+      ]
+    },
+    {
+      "id": "pear-tree-empty",
+      "path": "pear-tree-empty.png",
+      "generation_original": "/workspace/generated_images/exec-6d83f33e-fb09-479a-8559-83b42fa5e805.png",
+      "size": [
+        1199,
+        1312
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        0,
+        15,
+        1198,
+        1312
+      ],
+      "sha256": "c82a324a24c38705fa72137cdd9b657ac3b7ae578bd82fd82528333643bdc113",
+      "status": "visual_candidate_needs_alignment_and_game_test",
+      "style": "original cozy RPG illustration; not a native pixel-grid sprite",
+      "game_integration": "not_applied",
+      "alpha_histogram_summary": {
+        "fully_transparent": 948938,
+        "fully_opaque": 327,
+        "partial": 623823
+      },
+      "visible_bounds_alpha_224": [
+        100,
+        104,
+        1118,
+        1107
+      ],
+      "qa_notes": [
+        "PNG decode/hash/alpha passed.",
+        "Soft antialiased edge pixels present; inspect on game terrain.",
+        "Native source sizes differ across species; game export and anchor mapping not completed."
+      ]
+    },
+    {
+      "id": "pear-icon",
+      "path": "pear-icon.png",
+      "generation_original": "/workspace/generated_images/exec-ad1fe865-5077-4a64-8bff-ed3106a66255.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        0,
+        9,
+        1240,
+        1240
+      ],
+      "sha256": "b1bfe9ca84c03beb924d6a18f03e4c2f32846f3c1d6c88c13c90762c11983485",
+      "status": "visual_candidate_needs_alignment_and_game_test",
+      "style": "original cozy RPG illustration; not a native pixel-grid sprite",
+      "game_integration": "not_applied",
+      "alpha_histogram_summary": {
+        "fully_transparent": 1158561,
+        "fully_opaque": 674,
+        "partial": 413281
+      },
+      "visible_bounds_alpha_224": [
+        271,
+        198,
+        962,
+        1023
+      ],
+      "qa_notes": [
+        "PNG decode/hash/alpha passed.",
+        "Soft antialiased edge pixels present; inspect on game terrain.",
+        "Native source sizes differ across species; game export and anchor mapping not completed."
+      ]
+    },
+    {
+      "id": "mandarin-tree-ripe",
+      "path": "mandarin-tree-ripe.png",
+      "generation_original": "/workspace/generated_images/exec-0096e760-96a7-456f-976b-b436afbfc672.png",
+      "size": [
+        1206,
+        1305
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        0,
+        27,
+        1190,
+        1305
+      ],
+      "sha256": "ba84889317ff42b51823c6a2d4d9d39294f93a4c82e1636edbbfa61a27cc9ca8",
+      "status": "visual_candidate_needs_alignment_and_game_test",
+      "style": "original cozy RPG illustration; not a native pixel-grid sprite",
+      "game_integration": "not_applied",
+      "alpha_histogram_summary": {
+        "fully_transparent": 1047165,
+        "fully_opaque": 836,
+        "partial": 525829
+      },
+      "visible_bounds_alpha_224": [
+        137,
+        126,
+        1101,
+        1077
+      ],
+      "qa_notes": [
+        "PNG decode/hash/alpha passed.",
+        "Soft antialiased edge pixels present; inspect on game terrain.",
+        "Native source sizes differ across species; game export and anchor mapping not completed."
+      ]
+    },
+    {
+      "id": "mandarin-tree-empty",
+      "path": "mandarin-tree-empty.png",
+      "generation_original": "/workspace/generated_images/exec-588fb7fd-00a4-4ea6-a0b0-bc95a8635d05.png",
+      "size": [
+        1205,
+        1305
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        0,
+        3,
+        1199,
+        1287
+      ],
+      "sha256": "39020c34e628a9744f7b68cd71d197e114991be33e9456b4e96f6cb3565ef8a7",
+      "status": "visual_candidate_needs_alignment_and_game_test",
+      "style": "original cozy RPG illustration; not a native pixel-grid sprite",
+      "game_integration": "not_applied",
+      "alpha_histogram_summary": {
+        "fully_transparent": 1043986,
+        "fully_opaque": 710,
+        "partial": 527829
+      },
+      "visible_bounds_alpha_224": [
+        136,
+        124,
+        1100,
+        1079
+      ],
+      "qa_notes": [
+        "PNG decode/hash/alpha passed.",
+        "Soft antialiased edge pixels present; inspect on game terrain.",
+        "Native source sizes differ across species; game export and anchor mapping not completed."
+      ]
+    },
+    {
+      "id": "mandarin-icon",
+      "path": "mandarin-icon.png",
+      "generation_original": "/workspace/generated_images/exec-ef057753-20eb-44d7-8722-60e16a47f410.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        154,
+        85,
+        1180,
+        1230
+      ],
+      "sha256": "79c414c1136232ad2d043fa61be2d363bae7c509913cf196043b80077865bf8d",
+      "status": "visual_candidate_needs_alignment_and_game_test",
+      "style": "original cozy RPG illustration; not a native pixel-grid sprite",
+      "game_integration": "not_applied",
+      "alpha_histogram_summary": {
+        "fully_transparent": 1283081,
+        "fully_opaque": 685,
+        "partial": 288750
+      },
+      "visible_bounds_alpha_224": [
+        315,
+        302,
+        919,
+        949
+      ],
+      "qa_notes": [
+        "PNG decode/hash/alpha passed.",
+        "Soft antialiased edge pixels present; inspect on game terrain.",
+        "Native source sizes differ across species; game export and anchor mapping not completed."
+      ]
+    },
+    {
+      "id": "peach-tree-ripe",
+      "path": "peach-tree-ripe.png",
+      "generation_original": "/workspace/generated_images/exec-24a123a1-dd07-4c10-bc2b-e767fef214eb.png",
+      "size": [
+        1312,
+        1199
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        31,
+        40,
+        1292,
+        1175
+      ],
+      "sha256": "778c4fca3b0e0b7f1ae6a528dfa20bd545f2549048d69a1a5bea019020c72f86",
+      "status": "visual_candidate_needs_alignment_and_game_test",
+      "style": "original cozy RPG illustration; not a native pixel-grid sprite",
+      "game_integration": "not_applied",
+      "alpha_histogram_summary": {
+        "fully_transparent": 717041,
+        "fully_opaque": 1015,
+        "partial": 855032
+      },
+      "visible_bounds_alpha_224": [
+        39,
+        47,
+        1281,
+        1116
+      ],
+      "qa_notes": [
+        "PNG decode/hash/alpha passed.",
+        "Soft antialiased edge pixels present; inspect on game terrain.",
+        "Native source sizes differ across species; game export and anchor mapping not completed."
+      ]
+    },
+    {
+      "id": "peach-tree-empty",
+      "path": "peach-tree-empty.png",
+      "generation_original": "/workspace/generated_images/exec-7f34b52e-cd99-47a5-9673-55a164237723.png",
+      "size": [
+        1312,
+        1199
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        0,
+        31,
+        1292,
+        1199
+      ],
+      "sha256": "4dba7695402072e09b311b29c3267ed24c3efcbfc1a162ddf2855cac0ef562b8",
+      "status": "visual_candidate_needs_alignment_and_game_test",
+      "style": "original cozy RPG illustration; not a native pixel-grid sprite",
+      "game_integration": "not_applied",
+      "alpha_histogram_summary": {
+        "fully_transparent": 706646,
+        "fully_opaque": 884,
+        "partial": 865558
+      },
+      "visible_bounds_alpha_224": [
+        37,
+        43,
+        1281,
+        1117
+      ],
+      "qa_notes": [
+        "PNG decode/hash/alpha passed.",
+        "Soft antialiased edge pixels present; inspect on game terrain.",
+        "Native source sizes differ across species; game export and anchor mapping not completed."
+      ]
+    },
+    {
+      "id": "peach-icon",
+      "path": "peach-icon.png",
+      "generation_original": "/workspace/generated_images/exec-9b261374-df52-4d1c-be44-c0bd89d78248.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        0,
+        35,
+        1200,
+        1238
+      ],
+      "sha256": "e9755c3ebc4be72eac726343bd84e4c9c107647ca5d90131924f4e12d639d7f1",
+      "status": "visual_candidate_needs_alignment_and_game_test",
+      "style": "original cozy RPG illustration; not a native pixel-grid sprite",
+      "game_integration": "not_applied",
+      "alpha_histogram_summary": {
+        "fully_transparent": 1158599,
+        "fully_opaque": 604,
+        "partial": 413313
+      },
+      "visible_bounds_alpha_224": [
+        262,
+        216,
+        980,
+        1022
+      ],
+      "qa_notes": [
+        "PNG decode/hash/alpha passed.",
+        "Soft antialiased edge pixels present; inspect on game terrain.",
+        "Native source sizes differ across species; game export and anchor mapping not completed."
+      ]
+    },
+    {
+      "id": "blueberry-bush-ripe",
+      "path": "blueberry-bush-ripe.png",
+      "generation_original": "/workspace/generated_images/exec-87b48ce3-a311-4056-8d81-34b6276a3932.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "bounds": [
+        0,
+        9,
+        1524,
+        976
+      ],
+      "sha256": "8926bbfc50416297db0148a5b9c8cec440b5f27972354b7d31eff31e99af6072",
+      "status": "visual_candidate_needs_alignment_and_game_test",
+      "style": "original cozy RPG illustration; not a native pixel-grid sprite",
+      "game_integration": "not_applied",
+      "alpha_histogram_summary": {
+        "fully_transparent": 954048,
+        "fully_opaque": 0,
+        "partial": 618816
+      },
+      "visible_bounds_alpha_224": [
+        150,
+        115,
+        1380,
+        881
+      ],
+      "qa_notes": [
+        "Raw generated previews show RGB color outside the plant, much of it at alpha 0 or 1-2.",
+        "Actual browser compositing on white and green shows a clean cutout at reviewed size.",
+        "No content editing or background-removal code was applied.",
+        "World-scale, anchor and state transition remain unverified."
+      ]
+    },
+    {
+      "id": "blueberry-bush-ripe-v2",
+      "path": "blueberry-bush-ripe-v2.png",
+      "generation_original": "/workspace/generated_images/exec-822db23e-73a2-48c7-9648-4a502c7ca1ec.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "bounds": [
+        0,
+        6,
+        1522,
+        1024
+      ],
+      "sha256": "211e8870d3e99be3f0c4f99710aaf8520c3ad4d4149fc67018cd536ffa330057",
+      "status": "visual_candidate_needs_alignment_and_game_test",
+      "style": "original cozy RPG illustration; not a native pixel-grid sprite",
+      "game_integration": "not_applied",
+      "alpha_histogram_summary": {
+        "fully_transparent": 952833,
+        "fully_opaque": 0,
+        "partial": 620031
+      },
+      "visible_bounds_alpha_224": [
+        153,
+        113,
+        1378,
+        876
+      ],
+      "qa_notes": [
+        "Raw generated previews show RGB color outside the plant, much of it at alpha 0 or 1-2.",
+        "Actual browser compositing on white and green shows a clean cutout at reviewed size.",
+        "No content editing or background-removal code was applied.",
+        "World-scale, anchor and state transition remain unverified."
+      ]
+    },
+    {
+      "id": "blueberry-bush-ripe-v3",
+      "path": "blueberry-bush-ripe-v3.png",
+      "generation_original": "/workspace/generated_images/exec-1d063525-7108-482f-a57c-adb0f4ebb305.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "bounds": [
+        0,
+        0,
+        1522,
+        1002
+      ],
+      "sha256": "edcb6fcec81ee09852117cfb4826a5b3cd359fea73adaf86c22722819206a1e1",
+      "status": "visual_candidate_needs_alignment_and_game_test",
+      "style": "original cozy RPG illustration; not a native pixel-grid sprite",
+      "game_integration": "not_applied",
+      "alpha_histogram_summary": {
+        "fully_transparent": 921931,
+        "fully_opaque": 0,
+        "partial": 650933
+      },
+      "visible_bounds_alpha_224": [
+        151,
+        125,
+        1384,
+        906
+      ],
+      "qa_notes": [
+        "Raw generated previews show RGB color outside the plant, much of it at alpha 0 or 1-2.",
+        "Actual browser compositing on white and green shows a clean cutout at reviewed size.",
+        "No content editing or background-removal code was applied.",
+        "World-scale, anchor and state transition remain unverified."
+      ]
+    },
+    {
+      "id": "blueberry-bush-empty",
+      "path": "blueberry-bush-empty.png",
+      "generation_original": "/workspace/generated_images/exec-9557531e-938f-4792-a1a6-fa9ea1cd2194.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "bounds": [
+        0,
+        20,
+        1504,
+        991
+      ],
+      "sha256": "779d93ec0878047183920838cd103211023ec7e82921122f1b533ca32ade61d9",
+      "status": "visual_candidate_needs_alignment_and_game_test",
+      "style": "original cozy RPG illustration; not a native pixel-grid sprite",
+      "game_integration": "not_applied",
+      "alpha_histogram_summary": {
+        "fully_transparent": 971296,
+        "fully_opaque": 0,
+        "partial": 601568
+      },
+      "visible_bounds_alpha_224": [
+        149,
+        113,
+        1380,
+        876
+      ],
+      "qa_notes": [
+        "Raw generated previews show RGB color outside the plant, much of it at alpha 0 or 1-2.",
+        "Actual browser compositing on white and green shows a clean cutout at reviewed size.",
+        "No content editing or background-removal code was applied.",
+        "World-scale, anchor and state transition remain unverified."
+      ]
+    },
+    {
+      "id": "blueberry-icon",
+      "path": "blueberry-icon.png",
+      "generation_original": "/workspace/generated_images/exec-a3016bd9-c023-40b3-ba83-9a4e74464b57.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        140,
+        21,
+        1194,
+        1214
+      ],
+      "sha256": "7c1f83414cb43f8733ee85b79a21130de231a932dd04ab84a84d55305f05d110",
+      "status": "visual_candidate_needs_alignment_and_game_test",
+      "style": "original cozy RPG illustration; not a native pixel-grid sprite",
+      "game_integration": "not_applied",
+      "alpha_histogram_summary": {
+        "fully_transparent": 1299779,
+        "fully_opaque": 741,
+        "partial": 271996
+      },
+      "visible_bounds_alpha_224": [
+        308,
+        316,
+        958,
+        928
+      ],
+      "qa_notes": [
+        "PNG decode/hash/alpha passed.",
+        "Soft antialiased edge pixels present; inspect on game terrain.",
+        "Native source sizes differ across species; game export and anchor mapping not completed."
+      ]
+    },
+    {
+      "id": "persimmon-tree-ripe",
+      "path": "persimmon-tree-ripe.png",
+      "generation_original": "/workspace/generated_images/exec-e6a196a6-b4cb-444f-b721-919205eae167.png",
+      "size": [
+        1233,
+        1275
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        0,
+        53,
+        1219,
+        1182
+      ],
+      "sha256": "f4d2e8f10e5f7ed0ce76f2c570bbddb436e39336cea4014cfe9f10eb94acfd12",
+      "status": "visual_candidate_needs_alignment_and_game_test",
+      "style": "original cozy RPG illustration; not a native pixel-grid sprite",
+      "game_integration": "not_applied",
+      "alpha_histogram_summary": {
+        "fully_transparent": 879772,
+        "fully_opaque": 1470,
+        "partial": 690833
+      },
+      "visible_bounds_alpha_224": [
+        61,
+        121,
+        1174,
+        1124
+      ],
+      "qa_notes": [
+        "PNG decode/hash/alpha passed.",
+        "Soft antialiased edge pixels present; inspect on game terrain.",
+        "Native source sizes differ across species; game export and anchor mapping not completed."
+      ]
+    },
+    {
+      "id": "persimmon-tree-empty",
+      "path": "persimmon-tree-empty.png",
+      "generation_original": "/workspace/generated_images/exec-a4e8f743-0c16-4be8-a31d-7d8cbb2db8c8.png",
+      "size": [
+        1233,
+        1276
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        41,
+        49,
+        1199,
+        1248
+      ],
+      "sha256": "16951e020bf14ac1eb36ebfde8a6b54bbfe6706c86bc702a51974288c4d71e70",
+      "status": "visual_candidate_needs_alignment_and_game_test",
+      "style": "original cozy RPG illustration; not a native pixel-grid sprite",
+      "game_integration": "not_applied",
+      "alpha_histogram_summary": {
+        "fully_transparent": 882682,
+        "fully_opaque": 2156,
+        "partial": 688470
+      },
+      "visible_bounds_alpha_224": [
+        63,
+        120,
+        1173,
+        1127
+      ],
+      "qa_notes": [
+        "PNG decode/hash/alpha passed.",
+        "Soft antialiased edge pixels present; inspect on game terrain.",
+        "Native source sizes differ across species; game export and anchor mapping not completed."
+      ]
+    },
+    {
+      "id": "persimmon-icon",
+      "path": "persimmon-icon.png",
+      "generation_original": "/workspace/generated_images/exec-3463dd82-d845-41bd-b465-eef8daaa540d.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        0,
+        48,
+        1222,
+        1230
+      ],
+      "sha256": "08c1c08811cf8827a8dc4c2e599b133709dc0b97babdee824de5d75930db831e",
+      "status": "visual_candidate_needs_alignment_and_game_test",
+      "style": "original cozy RPG illustration; not a native pixel-grid sprite",
+      "game_integration": "not_applied",
+      "alpha_histogram_summary": {
+        "fully_transparent": 1162888,
+        "fully_opaque": 759,
+        "partial": 408869
+      },
+      "visible_bounds_alpha_224": [
+        248,
+        276,
+        1003,
+        971
+      ],
+      "qa_notes": [
+        "PNG decode/hash/alpha passed.",
+        "Soft antialiased edge pixels present; inspect on game terrain.",
+        "Native source sizes differ across species; game export and anchor mapping not completed."
+      ]
+    }
+  ],
+  "batch": "01-six-fruit-plants-and-icons",
+  "target_count": 18,
+  "production_method": "GPT image generation and reference-based edits; original generated art",
+  "art_direction": "Approved cozy RPG illustration, not native pixel-grid art",
+  "workflow": "Sequential generation -> reference-based state edit -> technical/visual inspection -> save -> next item",
+  "approved_in_game": false,
+  "not_background_job": "This batch was run during the active conversation turn; no recurring automation is scheduled.",
+  "selected_asset_ids": [
+    "apple-tree-ripe",
+    "apple-tree-empty",
+    "apple-icon",
+    "pear-tree-ripe",
+    "pear-tree-empty",
+    "pear-icon",
+    "mandarin-tree-ripe",
+    "mandarin-tree-empty",
+    "mandarin-icon",
+    "peach-tree-ripe",
+    "peach-tree-empty",
+    "peach-icon",
+    "blueberry-bush-ripe",
+    "blueberry-bush-empty",
+    "blueberry-icon",
+    "persimmon-tree-ripe",
+    "persimmon-tree-empty",
+    "persimmon-icon"
+  ],
+  "pair_checks": [
+    {
+      "species": "apple",
+      "ripe": "apple-tree-ripe.png",
+      "empty": "apple-tree-empty.png",
+      "same_canvas_size": true,
+      "size_delta": [
+        0,
+        0
+      ],
+      "anchor_alignment": "not_yet_verified_in_game"
+    },
+    {
+      "species": "pear",
+      "ripe": "pear-tree-ripe.png",
+      "empty": "pear-tree-empty.png",
+      "same_canvas_size": true,
+      "size_delta": [
+        0,
+        0
+      ],
+      "anchor_alignment": "not_yet_verified_in_game"
+    },
+    {
+      "species": "mandarin",
+      "ripe": "mandarin-tree-ripe.png",
+      "empty": "mandarin-tree-empty.png",
+      "same_canvas_size": false,
+      "size_delta": [
+        -1,
+        0
+      ],
+      "anchor_alignment": "not_yet_verified_in_game"
+    },
+    {
+      "species": "peach",
+      "ripe": "peach-tree-ripe.png",
+      "empty": "peach-tree-empty.png",
+      "same_canvas_size": true,
+      "size_delta": [
+        0,
+        0
+      ],
+      "anchor_alignment": "not_yet_verified_in_game"
+    },
+    {
+      "species": "blueberry",
+      "ripe": "blueberry-bush-ripe.png",
+      "empty": "blueberry-bush-empty.png",
+      "same_canvas_size": true,
+      "size_delta": [
+        0,
+        0
+      ],
+      "anchor_alignment": "not_yet_verified_in_game"
+    },
+    {
+      "species": "persimmon",
+      "ripe": "persimmon-tree-ripe.png",
+      "empty": "persimmon-tree-empty.png",
+      "same_canvas_size": false,
+      "size_delta": [
+        0,
+        1
+      ],
+      "anchor_alignment": "not_yet_verified_in_game"
+    }
+  ],
+  "extra_attempt_ids": [
+    "blueberry-bush-ripe-v2",
+    "blueberry-bush-ripe-v3"
+  ],
+  "summary": {
+    "generated_target_items": 18,
+    "visual_candidates": 18,
+    "on_hold": 0,
+    "total_generation_attempts": 20
+  }
+}
