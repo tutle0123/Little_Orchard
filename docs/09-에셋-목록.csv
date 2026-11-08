@@ -10,34 +10,34 @@ WORLD-gate,과수원,출입구,필수,문/통과 표시,유사 소재 파일 확
 WORLD-shop-exterior,과수원,청과점 외관,필수,벽·창문·문·간판,유사 소재 파일 확인,Tiny Farm 무료판/Sunnyside,최종 스타일·타일연결·비율은미검증
 WORLD-roof,과수원,청과점 지붕/전경,필수,가림 레이어,유사 소재 파일 확인,Tiny Farm 무료판/Sunnyside,최종 스타일·타일연결·비율은미검증
 WORLD-boundary,과수원,과수원 바깥 경계,필수,배경/통행불가 표시,유사 소재 파일 확인,Tiny Farm 무료판/Sunnyside,최종 스타일·타일연결·비율은미검증
-PLANT-apple,작물,사과 성목/관목 몸체,필수,열매 없는 기본 모습,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,기존 사과는 미승인 실험
+PLANT-apple,작물,사과 성목/관목 몸체,필수,열매 없는 기본 모습,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,새 GPT 일러스트 식물 시안 생성. 기존 픽셀 실험과 별도.
 RIPE-apple,작물,사과 익은 열매 레이어,필수,식물에 붙는 크기·배치,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,현재는 열매 포함 전체 식물 이미지. 개별 열매 레이어는 아직 분리하지 않음.
-ICON-apple,작물,사과 가방/판매 아이템,필수,기본 아이콘,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,실제 파일 미확보; 기존 사과는 미승인 실험
+ICON-apple,작물,사과 가방/판매 아이템,필수,기본 아이콘,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,새 GPT 일러스트 아이콘 생성. 이전 네이티브 픽셀 사과 실험과 별도.
 UNRIPE-apple,작물,사과 덜 익은 열매,확장,익기 전 단계,미확보,Tiny Farm 정식/Cozyland/Mana Seed 공식페이지,중간 성장 단계 채택 시 제작
 YOUNG-apple,작물,사과 묘목/어린 식물,확장,묘목→어린 식물→성목,미확보,Tiny Farm 정식/Cozyland/Mana Seed 공식페이지,심기/초기성장 규칙 확정 후
-PLANT-pear,작물,배 성목/관목 몸체,필수,열매 없는 기본 모습,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,둥근 한국 배/서양 배 외형 미정
+PLANT-pear,작물,배 성목/관목 몸체,필수,열매 없는 기본 모습,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,둥근 배가 달리는 수종으로 시안 제작. 최종 수종 디자인 승인 전.
 RIPE-pear,작물,배 익은 열매 레이어,필수,식물에 붙는 크기·배치,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,현재는 열매 포함 전체 식물 이미지. 개별 열매 레이어는 아직 분리하지 않음.
-ICON-pear,작물,배 가방/판매 아이템,필수,기본 아이콘,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,실제 파일 미확보; 둥근 한국 배/서양 배 외형 미정
+ICON-pear,작물,배 가방/판매 아이템,필수,기본 아이콘,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,둥근 배 형태로 시안 제작. 최종 크기/게임 표시 검수 전.
 UNRIPE-pear,작물,배 덜 익은 열매,확장,익기 전 단계,미확보,Tiny Farm 정식/Cozyland/Mana Seed 공식페이지,중간 성장 단계 채택 시 제작
 YOUNG-pear,작물,배 묘목/어린 식물,확장,묘목→어린 식물→성목,미확보,Tiny Farm 정식/Cozyland/Mana Seed 공식페이지,심기/초기성장 규칙 확정 후
 PLANT-mandarin,작물,귤 성목/관목 몸체,필수,열매 없는 기본 모습,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,오렌지나무 확보와 구분
 RIPE-mandarin,작물,귤 익은 열매 레이어,필수,식물에 붙는 크기·배치,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,현재는 열매 포함 전체 식물 이미지. 개별 열매 레이어는 아직 분리하지 않음.
-ICON-mandarin,작물,귤 가방/판매 아이템,필수,기본 아이콘,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,실제 파일 미확보; 오렌지나무 확보와 구분
+ICON-mandarin,작물,귤 가방/판매 아이템,필수,기본 아이콘,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,GPT 일러스트 아이콘 생성; 오렌지나무 확보와 구분
 UNRIPE-mandarin,작물,귤 덜 익은 열매,확장,익기 전 단계,미확보,전용 세트 미확인,중간 성장 단계 채택 시 제작
 YOUNG-mandarin,작물,귤 묘목/어린 식물,확장,묘목→어린 식물→성목,미확보,전용 세트 미확인,심기/초기성장 규칙 확정 후
 PLANT-peach,작물,복숭아 성목/관목 몸체,필수,열매 없는 기본 모습,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,열매와 잎 대비 확인
 RIPE-peach,작물,복숭아 익은 열매 레이어,필수,식물에 붙는 크기·배치,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,현재는 열매 포함 전체 식물 이미지. 개별 열매 레이어는 아직 분리하지 않음.
-ICON-peach,작물,복숭아 가방/판매 아이템,필수,기본 아이콘,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,실제 파일 미확보; 열매와 잎 대비 확인
+ICON-peach,작물,복숭아 가방/판매 아이템,필수,기본 아이콘,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,GPT 일러스트 아이콘 생성; 열매와 잎 대비 확인
 UNRIPE-peach,작물,복숭아 덜 익은 열매,확장,익기 전 단계,미확보,Tiny Farm 정식/Cozyland/Mana Seed 공식페이지,중간 성장 단계 채택 시 제작
 YOUNG-peach,작물,복숭아 묘목/어린 식물,확장,묘목→어린 식물→성목,미확보,Tiny Farm 정식/Cozyland/Mana Seed 공식페이지,심기/초기성장 규칙 확정 후
 PLANT-blueberry,작물,블루베리 성목/관목 몸체,필수,열매 없는 기본 모습,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,나무가 아닌 관목
 RIPE-blueberry,작물,블루베리 익은 열매 레이어,필수,식물에 붙는 크기·배치,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,현재는 열매 포함 전체 식물 이미지. 개별 열매 레이어는 아직 분리하지 않음.
-ICON-blueberry,작물,블루베리 가방/판매 아이템,필수,기본 아이콘,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,실제 파일 미확보; 나무가 아닌 관목
+ICON-blueberry,작물,블루베리 가방/판매 아이템,필수,기본 아이콘,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,GPT 일러스트 아이콘 생성; 나무가 아닌 관목
 UNRIPE-blueberry,작물,블루베리 덜 익은 열매,확장,익기 전 단계,미확보,Mana Seed Farming Crops #2 공식페이지,중간 성장 단계 채택 시 제작
 YOUNG-blueberry,작물,블루베리 묘목/어린 식물,확장,묘목→어린 식물→성목,미확보,Mana Seed Farming Crops #2 공식페이지,심기/초기성장 규칙 확정 후
 PLANT-persimmon,작물,감 성목/관목 몸체,필수,열매 없는 기본 모습,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,꽃받침으로 귤과 구분
 RIPE-persimmon,작물,감 익은 열매 레이어,필수,식물에 붙는 크기·배치,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,현재는 열매 포함 전체 식물 이미지. 개별 열매 레이어는 아직 분리하지 않음.
-ICON-persimmon,작물,감 가방/판매 아이템,필수,기본 아이콘,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,실제 파일 미확보; 꽃받침으로 귤과 구분
+ICON-persimmon,작물,감 가방/판매 아이템,필수,기본 아이콘,GPT 생성 초안·인게임 검수 전,art/generated/v1/manifest.json,GPT 일러스트 아이콘 생성; 꽃받침으로 귤과 구분
 UNRIPE-persimmon,작물,감 덜 익은 열매,확장,익기 전 단계,미확보,전용 세트 미확인,중간 성장 단계 채택 시 제작
 YOUNG-persimmon,작물,감 묘목/어린 식물,확장,묘목→어린 식물→성목,미확보,전용 세트 미확인,심기/초기성장 규칙 확정 후
 SHOP-floor,청과점,실내 바닥,필수,반복/경계,유사 소재 파일 확인,Tiny Farm 무료판/Sunnyside,무료판 진열대 포함 여부 미확인; 최종 에셋 승인 전
