@@ -1,0 +1,64 @@
+{
+  "style": "User-approved bright bouncy casual illustration reference: vivid lime leaves, plump glossy berries, smooth warm orange-brown stems; previous painterly style not approved",
+  "batch": "blueberry-only-style-v3",
+  "assets": [
+    {
+      "id": "blueberry-bush-ripe",
+      "file": "blueberry-bush-ripe.png",
+      "source": "/workspace/generated_images/exec-330cf7c9-3434-4f79-87fa-e4c78b847ee8.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha": [
+        0,
+        254
+      ],
+      "sha256": "dab1544ffb74805766c65056f189ebd012de1aad9bbade777a62d9e8b3de05c7",
+      "status": "new-style draft; game integration not performed"
+    },
+    {
+      "id": "blueberry-bush-empty",
+      "file": "blueberry-bush-empty.png",
+      "source": "/workspace/generated_images/exec-80d387b4-f00e-4834-b23c-316350505a1c.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha": [
+        0,
+        254
+      ],
+      "sha256": "aecc5e8461f8a7e3f89ef775100ff0f0d12eb008636875c5bd7bc507a3d5dc69",
+      "status": "new-style draft; game integration not performed"
+    },
+    {
+      "id": "blueberry-icon",
+      "file": "blueberry-icon.png",
+      "source": "/workspace/generated_images/exec-1babb0fb-3950-4717-9004-e6f52d3af980.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha": [
+        0,
+        255
+      ],
+      "sha256": "ee69ef9cd772ee7d94a3a87311deab62f0e649d2f3f1c055c65085c0685e7c61",
+      "status": "new-style draft; game integration not performed"
+    }
+  ],
+  "qa": {
+    "png_decode_and_hash": "passed",
+    "transparent_alpha": "passed",
+    "matching_plant_canvas": "1536x1024, both states",
+    "browser_composite": "white and grass reviewed",
+    "mobile_layout": "390px, no horizontal overflow",
+    "style_review": "Assistant compared glossy berries, leaf highlights, smooth warm wood and lack of painted grain across all three; user approval of final files pending",
+    "game_integration": "not performed",
+    "native_pixel_art": false
+  }
+}
