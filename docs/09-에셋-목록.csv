@@ -1,0 +1,97 @@
+﻿ID,분류,에셋,우선순위,필요 상태·방향,확보 상태,출처·후보,주의·재사용
+STYLE-01,기준,스타일·팔레트 기준판,필수,시점·광원·윤곽·색감,미결정,기획 검토,픽셀/일러스트 전환 미확정
+STYLE-02,기준,사람·식물·건물·선반 비율표,필수,한 화면 비교,미작성,기획 검토,블루베리는 낮은 관목
+STYLE-03,기준,기준점·가림·충돌·터치 영역 규칙,필수,발/밑동/기둥 기준,미작성,기획 검토,이미지 사각형 전체를 충돌로 쓰지 않음
+WORLD-grass,과수원,잔디,필수,기본·변형,유사 소재 파일 확인,Tiny Farm 무료판/Sunnyside,최종 스타일·타일연결·비율은미검증
+WORLD-path,과수원,흙길,필수,직선·모서리·경계·끝,유사 소재 파일 확인,Tiny Farm 무료판/Sunnyside,최종 스타일·타일연결·비율은미검증
+WORLD-soil,과수원,뿌리 주변 마른 흙,필수,식물 하단 레이어,유사 소재 파일 확인,Tiny Farm 무료판/Sunnyside,최종 스타일·타일연결·비율은미검증
+WORLD-fence,과수원,울타리,필수,가로·세로·모서리·끝,유사 소재 파일 확인,Tiny Farm 무료판/Sunnyside,최종 스타일·타일연결·비율은미검증
+WORLD-gate,과수원,출입구,필수,문/통과 표시,유사 소재 파일 확인,Tiny Farm 무료판/Sunnyside,최종 스타일·타일연결·비율은미검증
+WORLD-shop-exterior,과수원,청과점 외관,필수,벽·창문·문·간판,유사 소재 파일 확인,Tiny Farm 무료판/Sunnyside,최종 스타일·타일연결·비율은미검증
+WORLD-roof,과수원,청과점 지붕/전경,필수,가림 레이어,유사 소재 파일 확인,Tiny Farm 무료판/Sunnyside,최종 스타일·타일연결·비율은미검증
+WORLD-boundary,과수원,과수원 바깥 경계,필수,배경/통행불가 표시,유사 소재 파일 확인,Tiny Farm 무료판/Sunnyside,최종 스타일·타일연결·비율은미검증
+PLANT-apple,작물,사과 성목/관목 몸체,필수,열매 없는 기본 모습,미확보,Tiny Farm 정식/Cozyland/Mana Seed 공식페이지,기존 사과는 미승인 실험
+RIPE-apple,작물,사과 익은 열매 레이어,필수,식물에 붙는 크기·배치,미확보,Tiny Farm 정식/Cozyland/Mana Seed 공식페이지,수확 시 제거; 몸체 기준점 공유
+ICON-apple,작물,사과 가방/판매 아이템,필수,기본 아이콘,후보 페이지만 확인,Helm3t 과일팩,실제 파일 미확보; 기존 사과는 미승인 실험
+UNRIPE-apple,작물,사과 덜 익은 열매,확장,익기 전 단계,미확보,Tiny Farm 정식/Cozyland/Mana Seed 공식페이지,중간 성장 단계 채택 시 제작
+YOUNG-apple,작물,사과 묘목/어린 식물,확장,묘목→어린 식물→성목,미확보,Tiny Farm 정식/Cozyland/Mana Seed 공식페이지,심기/초기성장 규칙 확정 후
+PLANT-pear,작물,배 성목/관목 몸체,필수,열매 없는 기본 모습,미확보,Tiny Farm 정식/Cozyland/Mana Seed 공식페이지,둥근 한국 배/서양 배 외형 미정
+RIPE-pear,작물,배 익은 열매 레이어,필수,식물에 붙는 크기·배치,미확보,Tiny Farm 정식/Cozyland/Mana Seed 공식페이지,수확 시 제거; 몸체 기준점 공유
+ICON-pear,작물,배 가방/판매 아이템,필수,기본 아이콘,후보 페이지만 확인,Helm3t 과일팩,실제 파일 미확보; 둥근 한국 배/서양 배 외형 미정
+UNRIPE-pear,작물,배 덜 익은 열매,확장,익기 전 단계,미확보,Tiny Farm 정식/Cozyland/Mana Seed 공식페이지,중간 성장 단계 채택 시 제작
+YOUNG-pear,작물,배 묘목/어린 식물,확장,묘목→어린 식물→성목,미확보,Tiny Farm 정식/Cozyland/Mana Seed 공식페이지,심기/초기성장 규칙 확정 후
+PLANT-mandarin,작물,귤 성목/관목 몸체,필수,열매 없는 기본 모습,미확보,전용 세트 미확인,오렌지나무 확보와 구분
+RIPE-mandarin,작물,귤 익은 열매 레이어,필수,식물에 붙는 크기·배치,미확보,전용 세트 미확인,수확 시 제거; 몸체 기준점 공유
+ICON-mandarin,작물,귤 가방/판매 아이템,필수,기본 아이콘,후보 페이지만 확인,Helm3t 과일팩,실제 파일 미확보; 오렌지나무 확보와 구분
+UNRIPE-mandarin,작물,귤 덜 익은 열매,확장,익기 전 단계,미확보,전용 세트 미확인,중간 성장 단계 채택 시 제작
+YOUNG-mandarin,작물,귤 묘목/어린 식물,확장,묘목→어린 식물→성목,미확보,전용 세트 미확인,심기/초기성장 규칙 확정 후
+PLANT-peach,작물,복숭아 성목/관목 몸체,필수,열매 없는 기본 모습,미확보,Tiny Farm 정식/Cozyland/Mana Seed 공식페이지,열매와 잎 대비 확인
+RIPE-peach,작물,복숭아 익은 열매 레이어,필수,식물에 붙는 크기·배치,미확보,Tiny Farm 정식/Cozyland/Mana Seed 공식페이지,수확 시 제거; 몸체 기준점 공유
+ICON-peach,작물,복숭아 가방/판매 아이템,필수,기본 아이콘,후보 페이지만 확인,Helm3t 과일팩,실제 파일 미확보; 열매와 잎 대비 확인
+UNRIPE-peach,작물,복숭아 덜 익은 열매,확장,익기 전 단계,미확보,Tiny Farm 정식/Cozyland/Mana Seed 공식페이지,중간 성장 단계 채택 시 제작
+YOUNG-peach,작물,복숭아 묘목/어린 식물,확장,묘목→어린 식물→성목,미확보,Tiny Farm 정식/Cozyland/Mana Seed 공식페이지,심기/초기성장 규칙 확정 후
+PLANT-blueberry,작물,블루베리 성목/관목 몸체,필수,열매 없는 기본 모습,미확보,Mana Seed Farming Crops #2 공식페이지,나무가 아닌 관목
+RIPE-blueberry,작물,블루베리 익은 열매 레이어,필수,식물에 붙는 크기·배치,미확보,Mana Seed Farming Crops #2 공식페이지,수확 시 제거; 몸체 기준점 공유
+ICON-blueberry,작물,블루베리 가방/판매 아이템,필수,기본 아이콘,후보 페이지만 확인,Helm3t 과일팩,실제 파일 미확보; 나무가 아닌 관목
+UNRIPE-blueberry,작물,블루베리 덜 익은 열매,확장,익기 전 단계,미확보,Mana Seed Farming Crops #2 공식페이지,중간 성장 단계 채택 시 제작
+YOUNG-blueberry,작물,블루베리 묘목/어린 식물,확장,묘목→어린 식물→성목,미확보,Mana Seed Farming Crops #2 공식페이지,심기/초기성장 규칙 확정 후
+PLANT-persimmon,작물,감 성목/관목 몸체,필수,열매 없는 기본 모습,미확보,전용 세트 미확인,꽃받침으로 귤과 구분
+RIPE-persimmon,작물,감 익은 열매 레이어,필수,식물에 붙는 크기·배치,미확보,전용 세트 미확인,수확 시 제거; 몸체 기준점 공유
+ICON-persimmon,작물,감 가방/판매 아이템,필수,기본 아이콘,미확보,전용 아이콘 미확인,실제 파일 미확보; 꽃받침으로 귤과 구분
+UNRIPE-persimmon,작물,감 덜 익은 열매,확장,익기 전 단계,미확보,전용 세트 미확인,중간 성장 단계 채택 시 제작
+YOUNG-persimmon,작물,감 묘목/어린 식물,확장,묘목→어린 식물→성목,미확보,전용 세트 미확인,심기/초기성장 규칙 확정 후
+SHOP-floor,청과점,실내 바닥,필수,반복/경계,유사 소재 파일 확인,Tiny Farm 무료판/Sunnyside,무료판 진열대 포함 여부 미확인; 최종 에셋 승인 전
+SHOP-wall,청과점,실내 벽,필수,모서리·출입구,유사 소재 파일 확인,Tiny Farm 무료판/Sunnyside,무료판 진열대 포함 여부 미확인; 최종 에셋 승인 전
+SHOP-door,청과점,문과 창문,필수,입구 표시,유사 소재 파일 확인,Tiny Farm 무료판/Sunnyside,무료판 진열대 포함 여부 미확인; 최종 에셋 승인 전
+SHOP-shelf,청과점,벽면 목재 선반,필수,상중하·기둥·연결,후보 페이지만 확인,Modern Interiors 공식페이지,무료판 진열대 포함 여부 미확인; 최종 에셋 승인 전
+SHOP-crate,청과점,진열칸/상자,필수,빈 상태,후보 페이지만 확인,Modern Interiors 공식페이지,무료판 진열대 포함 여부 미확인; 최종 에셋 승인 전
+SHOP-counter,청과점,계산대,필수,결제 위치,후보 페이지만 확인,Modern Interiors 공식페이지,무료판 진열대 포함 여부 미확인; 최종 에셋 승인 전
+SHOP-price,청과점,상품/가격 표지판,필수,글자 없는 배경판,후보 페이지만 확인,Modern Interiors 공식페이지,무료판 진열대 포함 여부 미확인; 최종 에셋 승인 전
+SHOP-bag,청과점,구매 봉투/바구니,필수,손님 전달 표현,후보 페이지만 확인,Modern Interiors 공식페이지,무료판 진열대 포함 여부 미확인; 최종 에셋 승인 전
+STOCK-apple,청과점,사과 진열 배치,필수,빈칸·소량·충분한 재고,미확보,ICON-apple와 공통 진열칸 조합,과일 반복 배치로 재사용; 전용 전체 선반6벌 불필요
+STOCK-pear,청과점,배 진열 배치,필수,빈칸·소량·충분한 재고,미확보,ICON-pear와 공통 진열칸 조합,과일 반복 배치로 재사용; 전용 전체 선반6벌 불필요
+STOCK-mandarin,청과점,귤 진열 배치,필수,빈칸·소량·충분한 재고,미확보,ICON-mandarin와 공통 진열칸 조합,과일 반복 배치로 재사용; 전용 전체 선반6벌 불필요
+STOCK-peach,청과점,복숭아 진열 배치,필수,빈칸·소량·충분한 재고,미확보,ICON-peach와 공통 진열칸 조합,과일 반복 배치로 재사용; 전용 전체 선반6벌 불필요
+STOCK-blueberry,청과점,블루베리 진열 배치,필수,빈칸·소량·충분한 재고,미확보,ICON-blueberry와 공통 진열칸 조합,과일 반복 배치로 재사용; 전용 전체 선반6벌 불필요
+STOCK-persimmon,청과점,감 진열 배치,필수,빈칸·소량·충분한 재고,미확보,ICON-persimmon와 공통 진열칸 조합,과일 반복 배치로 재사용; 전용 전체 선반6벌 불필요
+PLAYER-idle,인물,플레이어 정지,필수,앞·뒤·좌·우,대체용 파일 확인,Tiny Farm 무료판 Idle/Sunnyside,최종 디자인 미정; 손님은 플레이어와 외형 구분 필요
+PLAYER-walk,인물,플레이어 걷기,필수,앞·뒤·좌·우; 방향당4프레임 제안,대체용 파일 확인,Tiny Farm 무료판 Walk/Sunnyside,Tiny Farm3행 확인; 좌우반전·실제 프레임 매핑 미검증
+PLAYER-shadow,인물,플레이어 발밑 그림자,필수,접지 그림자,미확보,공통 타원/전용 그림자 제작,독립 그림 파일 대신 코드표현 가능
+CUSTOMER-idle,인물,손님 정지,필수,앞·뒤·좌·우,대체용 파일 확인,Tiny Farm 무료판 Idle/Sunnyside,최종 디자인 미정; 손님은 플레이어와 외형 구분 필요
+CUSTOMER-walk,인물,손님 걷기,필수,앞·뒤·좌·우; 방향당4프레임 제안,대체용 파일 확인,Tiny Farm 무료판 Walk/Sunnyside,Tiny Farm3행 확인; 좌우반전·실제 프레임 매핑 미검증
+CUSTOMER-shadow,인물,손님 발밑 그림자,필수,접지 그림자,미확보,공통 타원/전용 그림자 제작,독립 그림 파일 대신 코드표현 가능
+ACTION-harvest,인물,플레이어 수확,확장,4방향/대체 흔들림,일부 대체 동작 확인,Sunnyside 동작 시트/추가 제작,전용 동작 필수 여부는 첫 플레이로 검토
+ACTION-stock,인물,플레이어 진열 보충,확장,4방향/손에 과일,일부 대체 동작 확인,Sunnyside 동작 시트/추가 제작,전용 동작 필수 여부는 첫 플레이로 검토
+ACTION-carry,인물,플레이어 운반,확장,가방 또는 바구니 레이어,일부 대체 동작 확인,Sunnyside 동작 시트/추가 제작,전용 동작 필수 여부는 첫 플레이로 검토
+ACTION-customer-pick,인물,손님 상품 고르기,확장,정지+관심 말풍선,일부 대체 동작 확인,Sunnyside 동작 시트/추가 제작,전용 동작 필수 여부는 첫 플레이로 검토
+WATER-can,물주기,물뿌리개,확장,도구+아이콘,미확보,Sunnyside/Mana Seed 등 공식페이지,물주기 규칙 미정; 젖은 흙은6수종공유
+WATER-action,물주기,물주기 동작,확장,앞·뒤·좌·우,일부 동작/흙 후보 확인,Sunnyside/Mana Seed 등 공식페이지,물주기 규칙 미정; 젖은 흙은6수종공유
+WATER-splash,물주기,물줄기·물방울,확장,짧은 루프/흙에 닿는 효과,미확보,Sunnyside/Mana Seed 등 공식페이지,물주기 규칙 미정; 젖은 흙은6수종공유
+WATER-soil,물주기,젖은 흙,확장,마른 흙과 같은 경계,일부 동작/흙 후보 확인,Sunnyside/Mana Seed 등 공식페이지,물주기 규칙 미정; 젖은 흙은6수종공유
+WATER-status,물주기,수분 표시,확장,아이콘/짧은 효과,미확보,Sunnyside/Mana Seed 등 공식페이지,물주기 규칙 미정; 젖은 흙은6수종공유
+UI-panels,UI,HUD·패널,필수,코인·가방·장소·메시지,현재 HTML 또는 UI소재 있음,기존 HTML/CSS/Sunnyside UI,모든 항목 PNG 제작 불필요; 한글은 코드로 표시
+UI-slots,UI,아이템 칸,필수,선택/해제/빈칸,미확보,기존 HTML/CSS/Sunnyside UI,모든 항목 PNG 제작 불필요; 한글은 코드로 표시
+UI-controls,UI,터치 조작,필수,방향·상호작용; 누름/해제,현재 HTML 또는 UI소재 있음,기존 HTML/CSS/Sunnyside UI,모든 항목 PNG 제작 불필요; 한글은 코드로 표시
+UI-settings,UI,설정/음소거/확인창,필수,기본/비활성,현재 HTML 또는 UI소재 있음,기존 HTML/CSS/Sunnyside UI,모든 항목 PNG 제작 불필요; 한글은 코드로 표시
+UI-growth,UI,성장/수확 안내,필수,수확가능/대기,미확보,기존 HTML/CSS/Sunnyside UI,모든 항목 PNG 제작 불필요; 한글은 코드로 표시
+UI-save,UI,저장 결과,필수,성공/실패/이어하기,현재 HTML 또는 UI소재 있음,기존 HTML/CSS/Sunnyside UI,모든 항목 PNG 제작 불필요; 한글은 코드로 표시
+UI-tutorial,UI,첫 조작 안내,필수,키보드/터치,현재 HTML 또는 UI소재 있음,기존 HTML/CSS/Sunnyside UI,모든 항목 PNG 제작 불필요; 한글은 코드로 표시
+UI-loading,UI,로딩/시작 화면,필수,가벼운 배경+진행표시,미확보,기존 HTML/CSS/Sunnyside UI,모든 항목 PNG 제작 불필요; 한글은 코드로 표시
+FX-leaf,효과,수확/잎 흔들림,필수,짧은 효과/트윈,미확보,기존 스프라이트 재사용+코드연출,코드 트윈으로 처리 가능한 부분은 새 PNG불필요
+FX-pickup,효과,열매 획득 이동,필수,짧은 효과/트윈,미확보,기존 스프라이트 재사용+코드연출,코드 트윈으로 처리 가능한 부분은 새 PNG불필요
+FX-coin,효과,판매/코인 획득,필수,짧은 효과/트윈,미확보,기존 스프라이트 재사용+코드연출,코드 트윈으로 처리 가능한 부분은 새 PNG불필요
+FX-focus,효과,상호작용/보충 강조,필수,짧은 효과/트윈,미확보,기존 스프라이트 재사용+코드연출,코드 트윈으로 처리 가능한 부분은 새 PNG불필요
+SOUND-harvest,사운드,수확,확장,짧은 소리,미확보,Ninja Adventure CC0 등은 후보,해당 소리 실제 파일/청취 확인 전; 음소거지원
+SOUND-stock,사운드,진열 보충,확장,짧은 소리,미확보,Ninja Adventure CC0 등은 후보,해당 소리 실제 파일/청취 확인 전; 음소거지원
+SOUND-sale,사운드,구매/코인,확장,짧은 소리,미확보,Ninja Adventure CC0 등은 후보,해당 소리 실제 파일/청취 확인 전; 음소거지원
+SOUND-button,사운드,버튼,확장,짧은 소리,미확보,Ninja Adventure CC0 등은 후보,해당 소리 실제 파일/청취 확인 전; 음소거지원
+SOUND-door,사운드,문,확장,짧은 소리,미확보,Ninja Adventure CC0 등은 후보,해당 소리 실제 파일/청취 확인 전; 음소거지원
+SOUND-step,사운드,발소리,확장,짧은 소리,미확보,Ninja Adventure CC0 등은 후보,해당 소리 실제 파일/청취 확인 전; 음소거지원
+SOUND-water,사운드,물주기,확장,짧은 소리,미확보,Ninja Adventure CC0 등은 후보,해당 소리 실제 파일/청취 확인 전; 음소거지원
+SOUND-music,사운드,과수원/가게 음악,후순위,반복 루프,미확보,Ninja Adventure CC0 등은 후보,해당 소리 실제 파일/청취 확인 전; 음소거지원
+SOUND-ambient,사운드,환경음,후순위,반복 루프,미확보,Ninja Adventure CC0 등은 후보,해당 소리 실제 파일/청취 확인 전; 음소거지원
+LATER-season,추후,계절/겨울 식물과 지형,후순위,규칙 결정 후,미확보,현재 기획에서 미확정,현재 최소 제작 범위에 포함하지 않음
+LATER-weather,추후,날씨/밤 조명,후순위,규칙 결정 후,미확보,현재 기획에서 미확정,현재 최소 제작 범위에 포함하지 않음
+LATER-expansion,추후,확장 구역/묘목 구매,후순위,규칙 결정 후,미확보,현재 기획에서 미확정,현재 최소 제작 범위에 포함하지 않음
+LATER-decoration,추후,추가 장식/간판,후순위,규칙 결정 후,미확보,현재 기획에서 미확정,현재 최소 제작 범위에 포함하지 않음
+LATER-extra-customer,추후,추가 손님 외형,후순위,규칙 결정 후,미확보,현재 기획에서 미확정,현재 최소 제작 범위에 포함하지 않음
