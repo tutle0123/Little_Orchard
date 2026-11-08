@@ -48,7 +48,23 @@
         255
       ],
       "sha256": "ee69ef9cd772ee7d94a3a87311deab62f0e649d2f3f1c055c65085c0685e7c61",
-      "status": "new-style draft; game integration not performed"
+      "status": "superseded: user requested a single blueberry"
+    },
+    {
+      "id": "blueberry-icon-single",
+      "file": "blueberry-icon-single.png",
+      "source": "/workspace/generated_images/exec-e66383ba-3853-4a6e-ac85-ab2df68fcb9c.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha": [
+        0,
+        255
+      ],
+      "sha256": "06789019361cbfbb3c08bea776a2144c54a610ca0144fc0e0c1bbae25110aa2c",
+      "status": "single-fruit correction; user review pending"
     }
   ],
   "qa": {
@@ -60,5 +76,12 @@
     "style_review": "Assistant compared glossy berries, leaf highlights, smooth warm wood and lack of painted grain across all three; user approval of final files pending",
     "game_integration": "not performed",
     "native_pixel_art": false
-  }
+  },
+  "selected_icon": "blueberry-icon-single.png",
+  "superseded_icon": "blueberry-icon.png",
+  "selected_asset_ids": [
+    "blueberry-bush-ripe",
+    "blueberry-bush-empty",
+    "blueberry-icon-single"
+  ]
 }
